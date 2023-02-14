@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=3868" rel="self" type="application/rss+xml" />
-	<link>/https://olngai.github.io/Venus-Profile/hello-world/</link>
+	Comments for Profile	</title>
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=3834" rel="self" type="application/rss+xml" />
+	<link>/https://olngai.github.io/Venus-Profile/</link>
 	<description></description>
 	<lastBuildDate>Tue, 14 Feb 2023 09:35:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>/https://olngai.github.io/Venus-Profile/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
